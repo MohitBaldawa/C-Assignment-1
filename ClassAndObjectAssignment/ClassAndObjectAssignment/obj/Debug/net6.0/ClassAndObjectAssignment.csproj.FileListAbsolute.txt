@@ -1,0 +1,15 @@
+M:\Capgemini\Training C#\ClassAndObjectAssignment\ClassAndObjectAssignment\bin\Debug\net6.0\ClassAndObjectAssignment.exe
+M:\Capgemini\Training C#\ClassAndObjectAssignment\ClassAndObjectAssignment\bin\Debug\net6.0\ClassAndObjectAssignment.deps.json
+M:\Capgemini\Training C#\ClassAndObjectAssignment\ClassAndObjectAssignment\bin\Debug\net6.0\ClassAndObjectAssignment.runtimeconfig.json
+M:\Capgemini\Training C#\ClassAndObjectAssignment\ClassAndObjectAssignment\bin\Debug\net6.0\ClassAndObjectAssignment.dll
+M:\Capgemini\Training C#\ClassAndObjectAssignment\ClassAndObjectAssignment\bin\Debug\net6.0\ClassAndObjectAssignment.pdb
+M:\Capgemini\Training C#\ClassAndObjectAssignment\ClassAndObjectAssignment\obj\Debug\net6.0\ClassAndObjectAssignment.csproj.AssemblyReference.cache
+M:\Capgemini\Training C#\ClassAndObjectAssignment\ClassAndObjectAssignment\obj\Debug\net6.0\ClassAndObjectAssignment.GeneratedMSBuildEditorConfig.editorconfig
+M:\Capgemini\Training C#\ClassAndObjectAssignment\ClassAndObjectAssignment\obj\Debug\net6.0\ClassAndObjectAssignment.AssemblyInfoInputs.cache
+M:\Capgemini\Training C#\ClassAndObjectAssignment\ClassAndObjectAssignment\obj\Debug\net6.0\ClassAndObjectAssignment.AssemblyInfo.cs
+M:\Capgemini\Training C#\ClassAndObjectAssignment\ClassAndObjectAssignment\obj\Debug\net6.0\ClassAndObjectAssignment.csproj.CoreCompileInputs.cache
+M:\Capgemini\Training C#\ClassAndObjectAssignment\ClassAndObjectAssignment\obj\Debug\net6.0\ClassAndObjectAssignment.dll
+M:\Capgemini\Training C#\ClassAndObjectAssignment\ClassAndObjectAssignment\obj\Debug\net6.0\refint\ClassAndObjectAssignment.dll
+M:\Capgemini\Training C#\ClassAndObjectAssignment\ClassAndObjectAssignment\obj\Debug\net6.0\ClassAndObjectAssignment.pdb
+M:\Capgemini\Training C#\ClassAndObjectAssignment\ClassAndObjectAssignment\obj\Debug\net6.0\ClassAndObjectAssignment.genruntimeconfig.cache
+M:\Capgemini\Training C#\ClassAndObjectAssignment\ClassAndObjectAssignment\obj\Debug\net6.0\ref\ClassAndObjectAssignment.dll

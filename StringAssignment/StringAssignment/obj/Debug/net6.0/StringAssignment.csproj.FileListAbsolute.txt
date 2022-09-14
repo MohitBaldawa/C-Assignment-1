@@ -1,0 +1,15 @@
+M:\Capgemini\Training C#\StringAssignment\StringAssignment\bin\Debug\net6.0\StringAssignment.exe
+M:\Capgemini\Training C#\StringAssignment\StringAssignment\bin\Debug\net6.0\StringAssignment.deps.json
+M:\Capgemini\Training C#\StringAssignment\StringAssignment\bin\Debug\net6.0\StringAssignment.runtimeconfig.json
+M:\Capgemini\Training C#\StringAssignment\StringAssignment\bin\Debug\net6.0\StringAssignment.dll
+M:\Capgemini\Training C#\StringAssignment\StringAssignment\bin\Debug\net6.0\StringAssignment.pdb
+M:\Capgemini\Training C#\StringAssignment\StringAssignment\obj\Debug\net6.0\StringAssignment.csproj.AssemblyReference.cache
+M:\Capgemini\Training C#\StringAssignment\StringAssignment\obj\Debug\net6.0\StringAssignment.GeneratedMSBuildEditorConfig.editorconfig
+M:\Capgemini\Training C#\StringAssignment\StringAssignment\obj\Debug\net6.0\StringAssignment.AssemblyInfoInputs.cache
+M:\Capgemini\Training C#\StringAssignment\StringAssignment\obj\Debug\net6.0\StringAssignment.AssemblyInfo.cs
+M:\Capgemini\Training C#\StringAssignment\StringAssignment\obj\Debug\net6.0\StringAssignment.csproj.CoreCompileInputs.cache
+M:\Capgemini\Training C#\StringAssignment\StringAssignment\obj\Debug\net6.0\StringAssignment.dll
+M:\Capgemini\Training C#\StringAssignment\StringAssignment\obj\Debug\net6.0\refint\StringAssignment.dll
+M:\Capgemini\Training C#\StringAssignment\StringAssignment\obj\Debug\net6.0\StringAssignment.pdb
+M:\Capgemini\Training C#\StringAssignment\StringAssignment\obj\Debug\net6.0\StringAssignment.genruntimeconfig.cache
+M:\Capgemini\Training C#\StringAssignment\StringAssignment\obj\Debug\net6.0\ref\StringAssignment.dll
