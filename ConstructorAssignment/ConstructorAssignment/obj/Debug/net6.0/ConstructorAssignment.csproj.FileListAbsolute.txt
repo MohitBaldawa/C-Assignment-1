@@ -1,0 +1,15 @@
+M:\Capgemini\Training C#\ConstructorAssignment\ConstructorAssignment\bin\Debug\net6.0\ConstructorAssignment.exe
+M:\Capgemini\Training C#\ConstructorAssignment\ConstructorAssignment\bin\Debug\net6.0\ConstructorAssignment.deps.json
+M:\Capgemini\Training C#\ConstructorAssignment\ConstructorAssignment\bin\Debug\net6.0\ConstructorAssignment.runtimeconfig.json
+M:\Capgemini\Training C#\ConstructorAssignment\ConstructorAssignment\bin\Debug\net6.0\ConstructorAssignment.dll
+M:\Capgemini\Training C#\ConstructorAssignment\ConstructorAssignment\bin\Debug\net6.0\ConstructorAssignment.pdb
+M:\Capgemini\Training C#\ConstructorAssignment\ConstructorAssignment\obj\Debug\net6.0\ConstructorAssignment.csproj.AssemblyReference.cache
+M:\Capgemini\Training C#\ConstructorAssignment\ConstructorAssignment\obj\Debug\net6.0\ConstructorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+M:\Capgemini\Training C#\ConstructorAssignment\ConstructorAssignment\obj\Debug\net6.0\ConstructorAssignment.AssemblyInfoInputs.cache
+M:\Capgemini\Training C#\ConstructorAssignment\ConstructorAssignment\obj\Debug\net6.0\ConstructorAssignment.AssemblyInfo.cs
+M:\Capgemini\Training C#\ConstructorAssignment\ConstructorAssignment\obj\Debug\net6.0\ConstructorAssignment.csproj.CoreCompileInputs.cache
+M:\Capgemini\Training C#\ConstructorAssignment\ConstructorAssignment\obj\Debug\net6.0\ConstructorAssignment.dll
+M:\Capgemini\Training C#\ConstructorAssignment\ConstructorAssignment\obj\Debug\net6.0\refint\ConstructorAssignment.dll
+M:\Capgemini\Training C#\ConstructorAssignment\ConstructorAssignment\obj\Debug\net6.0\ConstructorAssignment.pdb
+M:\Capgemini\Training C#\ConstructorAssignment\ConstructorAssignment\obj\Debug\net6.0\ConstructorAssignment.genruntimeconfig.cache
+M:\Capgemini\Training C#\ConstructorAssignment\ConstructorAssignment\obj\Debug\net6.0\ref\ConstructorAssignment.dll
