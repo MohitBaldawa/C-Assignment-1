@@ -1,0 +1,15 @@
+M:\Capgemini\Training C#\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.csproj.AssemblyReference.cache
+M:\Capgemini\Training C#\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+M:\Capgemini\Training C#\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.AssemblyInfoInputs.cache
+M:\Capgemini\Training C#\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.AssemblyInfo.cs
+M:\Capgemini\Training C#\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.csproj.CoreCompileInputs.cache
+M:\Capgemini\Training C#\InterfaceAssignment\InterfaceAssignment\bin\Debug\net6.0\InterfaceAssignment.exe
+M:\Capgemini\Training C#\InterfaceAssignment\InterfaceAssignment\bin\Debug\net6.0\InterfaceAssignment.deps.json
+M:\Capgemini\Training C#\InterfaceAssignment\InterfaceAssignment\bin\Debug\net6.0\InterfaceAssignment.runtimeconfig.json
+M:\Capgemini\Training C#\InterfaceAssignment\InterfaceAssignment\bin\Debug\net6.0\InterfaceAssignment.dll
+M:\Capgemini\Training C#\InterfaceAssignment\InterfaceAssignment\bin\Debug\net6.0\InterfaceAssignment.pdb
+M:\Capgemini\Training C#\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.dll
+M:\Capgemini\Training C#\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\refint\InterfaceAssignment.dll
+M:\Capgemini\Training C#\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.pdb
+M:\Capgemini\Training C#\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.genruntimeconfig.cache
+M:\Capgemini\Training C#\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\ref\InterfaceAssignment.dll
